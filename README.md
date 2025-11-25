@@ -1,5 +1,6 @@
 # STAIR-CASE-WIRING
-
+### Name:mohamed ismail u
+### Reg no:212224080038
 AIM
 To control the status of the given lamp by using two – way switches.
 
